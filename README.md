@@ -23,12 +23,6 @@ Features
 
 Screenshots
 ------------
-![Screenshot 2023-12-11 132640](https://github.com/Rushikesh-264/LIbrary_Management_System/assets/150276077/576fc5d4-930f-4801-bd99-daa4c900bae5)
-![Screenshot 2023-12-11 132655](https://github.com/Rushikesh-264/LIbrary_Management_System/assets/150276077/f21e1016-ae1d-4e47-9f7d-c331d8b
-![Screenshot 2023-12-11 132655](https://github.com/Rushikesh-264/LIbrary_Management_System/assets/150276077/da52689e-0e5c-4739-8c42-b3ce6
-![Screenshot 2023-12-11 132714](https://github.com/Rushikesh-264/LIbrary_Management_System/assets/150276077/a4de102c-f695-4b0a-8c97-2cb9fbf23dcf)
-![Screenshot 2023-12-11 132640](https://github.com/Rushikesh-264/LIbrary_Management_System/assets/150276077/47922648-cfc9-4ab6-9b9d-61cf1aea6a8f)
-![Screenshot 2023-12-11 132714](https://github.com/Rushikesh-264/LIbrary_Management_System/assets/150276077/8c251974-1982-4ab5-a64e-36dbcdde5e09)
 
 
 
