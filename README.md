@@ -27,6 +27,7 @@ Screenshots
 
 ![Screenshot 2023-12-11 132655](https://github.com/Rushikesh-264/LIbrary_Management_System/assets/150276077/c043e20f-c85b-4161-8ee0-ce55972c6c6d)
 
+![Screenshot 2023-12-11 132714](https://github.com/Rushikesh-264/LIbrary_Management_System/assets/150276077/629744c5-883a-4351-9863-1b9c9dc4d8ce)
 
 Contributing
 ------------
