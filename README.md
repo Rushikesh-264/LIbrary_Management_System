@@ -21,10 +21,6 @@ Features
     Search and Filter:
         Provide an efficient search mechanism for books and members.
 
-    User Authentication:
-        Implement secure user authentication to control access to the system.
-
-
 Contributing
 ------------
 We welcome contributions to enhance the functionality and usability of the Library Management System. If you would like to contribute, please follow our contribution guidelines.
