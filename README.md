@@ -31,4 +31,4 @@ Screenshots
 
 Contributing
 ------------
-We welcome contributions to enhance the functionality and usability of the Library Management System. If you would like to contribute, please follow our contribution guidelines.
+If you'd like to contribute to the development of this Library Management System, feel free to fork the repository and submit pull requests. Contributions are welcome!
